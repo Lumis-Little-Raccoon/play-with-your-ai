@@ -111,7 +111,7 @@ The full table lives in the Chinese README (§4). The short version:
 | Kind | Typical games | What your AI is |
 |---|---|---|
 | ① | AI-native communities and MCP game platforms | the player |
-| ② | Programming games, interactive fiction, deckbuilders with an external-protocol mod | a partner at the same table |
+| ② | Programming games, interactive fiction, deckbuilders with an external-protocol mod; games with a real API (Stardew Valley via SMAPI, Factorio via RCON/Lua, Minecraft via mineflayer) | a partner at the same table |
 | ③ | Story-heavy, pixel-art, slow-paced titles | a passenger reading the subtitles |
 | ④ | Bomb defusal, co-op deduction, cipher games | the second brain |
 | ⑤ | Twitch action, dual-controller co-op, competitive online | out of reach — say so |

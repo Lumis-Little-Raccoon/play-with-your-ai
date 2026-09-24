@@ -123,6 +123,9 @@
 | Bitburner | ② | 亲自上手 | 免费；真 JS 写脚本 |
 | Turing Complete | ② | 讲原理的那一位 | 人拖线，机只说「为什么」 |
 | Screeps | ② | 写代码托管单位 | 长期挂机型 |
+| Stardew Valley 星露谷 | ② | 农场合伙人 | SMAPI mod 把游戏状态和动作暴露成接口，机读状态、发指令 |
+| Factorio | ② | 工厂调度员 | RCON 控制台 + Lua 命令；无头服务器可跑，机不用看屏 |
+| Minecraft | ② | 第二个玩家 | mineflayer 让机以独立玩家身份进服，走路挖矿都是接口 |
 | 互动小说（Z-machine/Glulx） | ② | 玩家本人 | 纯文本进出，最干净 |
 | Slay the Spire + 外部协议 mod | ② | 军师/亲自打牌 | 不抢屏，后台可跑 |
 | Reigns 系列 | ② | 玩家本人 | 方向键二选一；OCR 试金石 |
